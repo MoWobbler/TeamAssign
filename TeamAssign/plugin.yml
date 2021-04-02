@@ -1,0 +1,6 @@
+version: 1.0
+name: TeamJoin
+main: net.simpvp.TeamAssign.TeamAssign
+commands:
+  teamassign:
+    description: Assign teams. /teamassign <team 1> <team 2>
